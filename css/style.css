@@ -1,0 +1,11 @@
+.genBox{
+  
+    width: 800px;
+    height: 33vh;
+    border-radius: 0.8rem;
+    padding: 1rem;
+  }
+  
+  .generatedText{
+    font-size: 25px
+  }
